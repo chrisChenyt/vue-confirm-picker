@@ -1,0 +1,28 @@
+{
+  "name": "vue-confirm-picker",
+  "version": "1.0.0",
+  "description": "The picker component based on vue.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "raf.js": "^0.0.4",
+    "vue-touch": "git://github.com/vuejs/vue-touch.git#next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisChenyt/vue-confirm-picker.git"
+  },
+  "keywords": [
+    "vue",
+    "picker",
+    "vue-picker",
+    "vue-confirm-picker"
+  ],
+  "author": "chirscehn",
+  "bugs": {
+    "url": "https://github.com/chrisChenyt/vue-confirm-picker/issues"
+  },
+  "homepage": "https://github.com/chrisChenyt/vue-confirm-picker#readme"
+}
